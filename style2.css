@@ -1,0 +1,29 @@
+#wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+#borderimg {
+  background-color: #005757;
+  color: white;
+}
+body {
+  background-image: url("images/space.jpg");
+  background-size: cover;
+}
+ul li {
+  list-style-image: url("images/sus.png");
+}
+.specialborder {
+  border-image-source: url("images/border.png");
+  border-image-slice: 8 8 8 8;
+  border-width: 10px 10px 10px 10px;
+  border-image-repeat: repeat;
+  border-style: solid;
+}
+#beneathimg {
+  background-image: url("images/squid.jpg");
+  background-repeat: no-repeat;
+  height: 300px;
+  background-size: 100% 100%;
+}
