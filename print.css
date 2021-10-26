@@ -1,0 +1,22 @@
+#container {
+  background-color: white;
+  color: black;
+}
+#nav {
+  display: none;
+}
+#sidebar {
+  display: none;
+}
+#footer {
+  display: none;
+}
+.wp-block-image {
+  display: none;
+}
+a::after {
+  content: " ("attr(href)")"; 
+}
+body {
+  font-size: 1.25em;
+}
