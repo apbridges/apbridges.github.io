@@ -1,0 +1,22 @@
+#toc{
+  border: solid;
+  border-radius: 1em;
+  border-width: aut1o 1em auto auto;
+  background-color: lightgrey;
+  width: 320px;
+}
+#subChapter{
+  list-style-type: lower-alpha;
+}
+#fallacies{
+  margin-left:20px;
+}
+h3{
+  text-decoration:underline;
+}
+
+p{
+  border-radius:15px;
+  background-color:#EEE;
+  padding: 15px;
+}

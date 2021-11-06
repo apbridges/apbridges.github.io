@@ -1,0 +1,19 @@
+table, th, td{
+  border-collapse: collapse;
+  border: 1px solid;
+  text-align: center;
+  margin: auto;
+  height: ;
+}
+td{
+  width: 240px;
+}
+
+tr:nth-child(odd){
+  background-color: beige;
+}
+
+img {
+  height: 240px;
+  width: 240px;
+}
